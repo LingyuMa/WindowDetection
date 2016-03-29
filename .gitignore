@@ -1,0 +1,14 @@
+# no .txt~ files
+*.txt~
+
+# no .hpp~ files
+*.hpp~
+
+# no .cpp~ files
+*.cpp~
+
+# ignore all files in the build/ directory
+build/
+
+# ignore out.txt
+out.txt
